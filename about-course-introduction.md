@@ -1,1 +1,0 @@
-[Intro PDF](https://www.dropbox.com/s/d9ohl5zbnkvhnu8/IIZP2010_00opintojaksonintro.pdf?dl=0)

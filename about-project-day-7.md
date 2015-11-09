@@ -1,1 +1,0 @@
-Projektin tekoa!

@@ -1,1 +1,0 @@
-http://homes.jamk.fi/~huojo/opetus/IIZP2010/IIZP2010_ProjektinOhjaus&Seuranta.pdf
