@@ -18,14 +18,16 @@ Vastuuhenkilö
 
 ## Johdatus
 
-Mitä tämä dokumentti käsittelee ?
+* Johdatus dokumenttiin..
+
 
 
 
 ## Yleiskuvaus
 
-blaah blaah...
-
+* Esittele lyhyesti tuote tai kohde
+* Dokumentin tehtävä on avata esim. jatkokehittäjälle käsitys siitä miten tuote on toteutettu (Pelkkä lähdekoodi ei riitä)
+* Millaisia välineitä/työkaluja ja ympäristöjä tarvitaan, jos aioitaa kehitää tuotetta eteenpäin
 
 
 ## Käytetyt teknologiat
@@ -33,16 +35,25 @@ blaah blaah...
   * JAVA / Java Script ?
   * HABA kieli
   
+## Tuotekehitysympäristöjen kuvaukset
+
+*Kehitysympäristö
+*Testausympäristö
+*Ajo/suoritusympäristö
+*Demoympäristö
+
+## Käytetyt työvälineet ja niiden versionumerot
+
+* Kääntäjä xyz v1.0.1
+* debuggeri zky v2.05
+* Firefox 123
 
 
 
-## Tärkeimmät tekniset ratkaisut
+## Tärkeimmät tekniset ratkaisut joihin tuote nojaa
 
   * Kirjastot 
   * Jipot ja kikat
-
-
-  
 
 ## Yleinen ohjelmsto arkkitehtuuri
 
@@ -52,15 +63,12 @@ blaah blaah...
 
 ## Palvelujen/n rajapinnat (Interfaces)
 
- 
   * [Esimerkki elävästä elämästä](https://virkailija.opintopolku.fi/koodisto-service/swagger/index.html)
 
+## Suoritysympäristön (tuotanto) kuvaus
 
-
-  
-## Suoritysympäristön kuvaus
-
-  * Sijoittelunäkymä (Deployment diagram)
+  * Miten tuote ajetaan tuotannossa 
+  * Sijoittelunäkymä (Depoyment diagram)
 
 
 ## Tietokantakuvaukset
@@ -71,8 +79,6 @@ ER-kaavio
 
 ## 
 
-
-## Testausympäristöt
 
 
 
