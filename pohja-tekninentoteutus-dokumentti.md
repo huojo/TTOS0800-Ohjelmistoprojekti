@@ -34,26 +34,36 @@ Vastuuhenkilö
 
   * JAVA / Java Script ?
   * HABA kieli
+  * Perustelut miksi! 
+
   
 ## Tuotekehitysympäristöjen kuvaukset
 
-*Kehitysympäristö
-*Testausympäristö
-*Ajo/suoritusympäristö
-*Demoympäristö
+Kuvaa ainakin seuraavat:
+
+* Kehitysympäristö
+* Testausympäristö
+* Ajo/suoritusympäristö
+* Demoympäristö
+
+Eli miten nuo eri ympäristöt on toteutettu ko. projektissa
 
 ## Käytetyt työvälineet ja niiden versionumerot
 
 * Kääntäjä xyz v1.0.1
 * debuggeri zky v2.05
 * Firefox 123
+* Perustelut miksi! 
 
 
 
 ## Tärkeimmät tekniset ratkaisut joihin tuote nojaa
 
-  * Kirjastot 
-  * Jipot ja kikat
+
+  * Käytetyt kirjastot(library)/kehikot(Framework) (JQuery v 23456, JAVA EE 8 + Spring ZZZ, React IO)   
+  * Muut jipot ja kikat
+  * Perustelut miksi! 
+  
 
 ## Yleinen ohjelmsto arkkitehtuuri
 
