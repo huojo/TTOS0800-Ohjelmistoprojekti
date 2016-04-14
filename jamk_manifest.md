@@ -8,4 +8,4 @@ This is example of template course....
 
 
 
-[target_url=https://github.com/JAMK-IT/template-course/wiki]
+[target_url=http://jamk-it.github.io/IIZP2010-system-project/]
