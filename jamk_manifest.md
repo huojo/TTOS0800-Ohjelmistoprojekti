@@ -1,4 +1,4 @@
-## IIZP2010 järjestelmäprojekti
+## TTOS0800 Ohjelmistoprojekti
 
 ###Kurssin sisältö
 
@@ -10,4 +10,4 @@ Opintojakso toteutetaan pieninä käytännön projekteina, jolloin projektin ty�
 
 [Asio kuvaus](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTOS0100&knro=&noclose=%20&lan=fi)
 
-[target_url=http://jamk-it.github.io/IIZP2010-system-project/]
+[target_url=http://jamk-it.github.io/TTOS0800-Ohjelmistoprojekti/]
