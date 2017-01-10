@@ -1,23 +1,17 @@
-| RISKI ID |	Kuvaus | Vakavuus | Kuka hoitaa | Miten toimitaan |
-|:----|:----|:----|:----|:----|:----|
-| RIS01 | Ryhmän jäsen sairastuu flunssaan |  V3 |  HessuHopo | Ilmoita tiiminvetäjälle ja tarvittaesssa asiakkaalle. Tarkista [Viestintäsuunnitelma]() |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
-| RISXX | | | | |
+| RISKI ID |	Kuvaus | Vakavuus | Todennäköisyys | Kuka hoitaa | Miten toimitaan |
+|:----|:----|:----|:----|:----|:----|:----|
+| RIS01 | Ryhmän jäsen sairastuu flunssaan |  V3 |  T3 | HessuHopo | Ilmoita tiiminvetäjälle ja tarvittaesssa asiakkaalle. Tarkista [Viestintäsuunnitelma]() |
+| RISXX | | | | | |
+| RISXX | | | | | |
+| RISXX | | | | | |
 
 | Vakavuusluokka | kuvaus | Muuta |
 |:----:|:----:|:----:|
-| V1 | Vakava ongelma | | 
+| V1 | Erittäin vakava ongelma | | 
 | V2 | | | 
-| V3 | | | 
+| V3 | Merkittävä, vaikuttaa selvästi projektin onnistumiseen ja/tai tulokseen | | 
 | V4 | | | 
-| V5 | Ei haittaa, mutta tarkkailaan | | 
+| V5 | Vähäinen, toistuessaan vaikuttaa projektin onnistumiseen ja/tai tulokseen | | 
 
 ## Esimerkkejä todellisesta elämästä
 
